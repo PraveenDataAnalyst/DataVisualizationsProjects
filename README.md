@@ -12,3 +12,4 @@ Note: Data used in the projects for demonstration purposes only.
      # City Hotel:
      - The aim this visualization is information analysis of the Hotel Business Drawbacks and Enhancement, Customer Interests.
      - This visualization available in Tableau Public
+     Viz URL: https://public.tableau.com/app/profile/praveen1674/viz/ParkCityHotel/Dashboard1
